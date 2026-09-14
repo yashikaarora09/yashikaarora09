@@ -11,13 +11,11 @@ Welcome to my GitHub profile! I am a passionate Software Developer with a strong
 - 🌱 I’m currently learning and building new things everyday.
 - 💡 I love tackling complex Data Structures & Algorithms challenges.
 - 🚀 Always open to collaborating on innovative open-source projects.
-- 📫 How to reach me: **[Link your LinkedIn/Email here]**
+- 📫 How to reach me: **yashikaarora0905@gmail.com**
 
 <br/>
 
 ## 🛠️ Tech Stack
-
-*Update these badges based on the actual technologies you use most.*
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
@@ -47,7 +45,6 @@ Welcome to my GitHub profile! I am a passionate Software Developer with a strong
 <br/>
 
 ### 🏆 LeetCode Progress
-*This card automatically updates whenever a new problem is solved on LeetCode.*
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/yashika_arora09?theme=dark&font=Fira%20Code&ext=activity" alt="LeetCode Stats"/>
