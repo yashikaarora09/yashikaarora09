@@ -54,6 +54,5 @@ Welcome to my GitHub profile! I am a passionate Software Developer with a strong
 
 ---
 <div align="center">
-  <i>Visitors:</i><br>
   <img src="https://komarev.com/ghpvc/?username=yahsikaarora09&color=blue&style=flat" alt="Profile Views" />
 </div>
